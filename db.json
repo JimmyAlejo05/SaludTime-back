@@ -1,0 +1,24 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "apellido_paterno":"Adames",
+            "apellido_materno":"Espitia",
+            "nombre":"Juan",
+            "username":"juanchopro",
+            "password":"827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        
+        {
+            "id":2,
+            "apellido_paterno":"Pineros",
+            "apellido_materno":"Rios",
+            "nombre":"Jimmy",
+            "username":"Jimmypapi",
+            "password":"202cb962ac59075b964b07152d234b70"
+
+        }
+
+
+    ]
+}
